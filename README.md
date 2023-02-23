@@ -1,3 +1,14 @@
 # To-Do-App
-* Simple To Do Application built using Kotlin.
-* It allows users to manage their tasks from a smartphone, tablet and computer.
+* This is a simple to-do app built using Kotlin. It allows users to create, view, and delete to-do items.
+
+# Features
+* Create new to-do items
+* View list of all to-do items
+* Delete to-do items
+* Update tasks by editing their title and/or description
+
+
+
+
+# Status
+* This project is actively being maintained and updated.
